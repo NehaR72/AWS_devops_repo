@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-19T10:48:27 IST" name="Suite" finished-at="2026-03-19T10:48:47 IST" duration-ms="19589">
+    <groups>
+    </groups>
+    <test started-at="2026-03-19T10:48:27 IST" name="Test" finished-at="2026-03-19T10:48:47 IST" duration-ms="19589">
+      <class name="automation.validatehomepage">
+        <test-method signature="loginTest()[pri:0, instance:automation.validatehomepage@48f2bd5b]" started-at="2026-03-19T10:48:27 IST" name="loginTest" finished-at="2026-03-19T10:48:35 IST" duration-ms="8223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- automation.validatehomepage -->
+      <class name="automation.Validatewebapp">
+        <test-method signature="loginTest()[pri:0, instance:automation.Validatewebapp@235834f2]" started-at="2026-03-19T10:48:35 IST" name="loginTest" finished-at="2026-03-19T10:48:47 IST" duration-ms="11303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- automation.Validatewebapp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
